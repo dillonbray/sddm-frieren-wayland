@@ -42,7 +42,7 @@ sudo systemctl restart sddm
 You can easily change the background image by replacing image.png in the theme folder, or by editing the theme.conf file to point to a different filename.
 
 ## Credits & Acknowledgements
-- Background Art: The background wallpaper was generated/edited by nano banana, utilizing AI tools based on the original Frieren artwork, by kuroha.
+- Background Art: The background wallpaper was generated/edited by nano banana, utilizing AI tools based on the original Frieren artwork by kuroha.
 
 - Franchise: Frieren: Beyond Journey's End (Sōsō no Frieren) and its characters are the intellectual property of Kanehito Yamada and Tsukasa Abe / Shogakukan.
 
