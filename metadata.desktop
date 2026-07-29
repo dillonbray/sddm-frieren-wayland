@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Frieren Wayland
+Description=An elegant, Wayland-compatible SDDM theme inspired by Frieren: Beyond Journey's End.
+Author=Dillon Bray
+Copyright=2026 Dillon Bray
+License=LGPL v2.0
+Type=sddm-theme
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=frieren-wayland
+QtVersion=6
